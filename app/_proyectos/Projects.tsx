@@ -11,18 +11,30 @@ export default function ProjectsPage() {
       imgSrc: "/ProyectoCrumbsBeans.png",
       imgMobileSrc: "/ProyectoCrumbsBeansMobile.jpg",
       techs: ["Angular", "Bootstrap", "Supabase"],
-      githubLink: "https://github.com/Pedrosky21/Crumbs-Beans",
+      githubLink: "https://github.com/pedro-arreguez-dev/Crumbs-Beans",
       demo: "https://crumbs-beans.netlify.app/",
+    },
+    {
+      title: "Fútbol Fem CBA",
+      description1:
+        "Aplicación web para dar más visibilidad a la Liga Cordobesa de Fútbol femenino con info en tiempo real.",
+      description2:
+        "Permite consultar información de la LCF en tiempo real.",
+      imgSrc: "/ProyectoFutFemCBA.png",
+      imgMobileSrc: "/ProyectoFutFemCBA-Mobile.png",
+      techs: ["Angular", "Bootstrap", "Supabase"],
+      githubLink: "https://github.com/pedro-arreguez-dev",
+      demo: "https://futbolfemcba.netlify.app/",
     },
     {
       title: "Padel App",
       description1:
-        "Aplicación web desarrollada en equipo bajo metodologías ágiles para la gestión de partidos de pádel.",
+        "Aplicación full stack desarrollada en equipo bajo metodologías ágiles para la gestión de partidos de pádel.",
       description2:
         "Permite crear perfiles, buscar y unirse a partidos y reservar canchas. Los administradores de clubes pueden gestionar turnos y canchas y la organización interna del club.\nIncluye autenticación, administración de disponibilidad por parte de clubes y un panel para la gestión interna de turnos y reservas.",
       imgSrc: "/ProyectoPadel2.png",
       techs: ["Angular", "Tailwind", "NodeJS", "MySQL"],
-      githubLink: "https://github.com/Pedrosky21/Proyecto-Final-XAcademy",
+      githubLink: "https://github.com/pedro-arreguez-dev/Proyecto-Final-XAcademy",
       demo: "",
     },
     {
@@ -35,17 +47,6 @@ export default function ProjectsPage() {
       techs: ["React", "FastAPI"],
       githubLink: "https://github.com/tatoclemente/matchmaking-ai-hackathon",
       demo: "",
-    },
-    {
-      title: "LyzeWhats",
-      description1:
-        "Aplicación Full Stack que analiza el chat de WhatsApp con tu pareja y genera un dashboard romántico personalizado.",
-      description2:
-        "Utilizando pandas, procesa mensajes, calcula estadísticas relevantes y presenta visualizaciones interactivas que muestran la dinámica y evolución del vínculo.",
-      imgSrc: "/ProyectoLyze.jpg",
-      techs: ["NextJS", "Tailwind", "FastAPI"],
-      githubLink: "https://github.com/Pedrosky21/LyzeWhats-Back",
-      demo: "https://lyze-whats.vercel.app/",
     },
   ];
 

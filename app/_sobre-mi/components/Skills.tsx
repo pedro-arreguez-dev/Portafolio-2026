@@ -35,6 +35,9 @@ export default function Skills() {
     let className = "";
     let color;
     switch (tech) {
+      case "angular":
+        color = "text-red-600";
+        break;
       case "python":
         color = "text-green-500";
         break;
@@ -46,9 +49,6 @@ export default function Skills() {
         break;
       case "nextjs":
         color = "text-white";
-        break;
-      case "angular":
-        color = "text-red-600";
         break;
       case "nodejs":
         color = "text-green-500";

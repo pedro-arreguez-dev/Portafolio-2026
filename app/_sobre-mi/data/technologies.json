@@ -1,5 +1,19 @@
 [
   {
+    "title": "Angular",
+    "description": [
+      "Desarrollo de aplicaciones SPA escalables con arquitectura basada en componentes",
+      "Diseño de arquitecturas modulares y organización de funcionalidades por features",
+      "Gestión de estado reactivo mediante Signals y RxJS",
+      "Consumo e integración de APIs REST mediante HttpClient y servicios reutilizables",
+      "Implementación de routing, guards y lazy loading para gestionar navegación y acceso",
+      "Uso de inyección de dependencias para desacoplar y reutilizar lógica de negocio",
+      "Desarrollo de formularios reactivos con validaciones y manejo de estados",
+      "Creación de componentes, directivas y pipes reutilizables",
+      "Integración con librerías de UI como Bootstrap y Angular Material"
+    ]
+  },
+  {
     "title": "Python",
     "description": [
       "Desarrollo de APIs REST y servicios backend con Python y FastAPI",
@@ -45,20 +59,6 @@
       "Implementación de APIs mediante funciones en la carpeta /api",
       "Optimización automática del rendimiento y manejo de imágenes con next/image",
       "Estilización con Tailwind CSS, CSS Modules o Styled Components"
-    ]
-  },
-  {
-    "title": "Angular",
-    "description": [
-      "Desarrollo de aplicaciones SPA escalables con arquitectura basada en componentes",
-      "Diseño de arquitecturas modulares y organización de funcionalidades por features",
-      "Gestión de estado reactivo mediante Signals y RxJS",
-      "Consumo e integración de APIs REST mediante HttpClient y servicios reutilizables",
-      "Implementación de routing, guards y lazy loading para gestionar navegación y acceso",
-      "Uso de inyección de dependencias para desacoplar y reutilizar lógica de negocio",
-      "Desarrollo de formularios reactivos con validaciones y manejo de estados",
-      "Creación de componentes, directivas y pipes reutilizables",
-      "Integración con librerías de UI como Bootstrap y Angular Material"
     ]
   },
   {
